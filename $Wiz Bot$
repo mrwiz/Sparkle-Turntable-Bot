@@ -1,0 +1,4 @@
+npm install ttapi
+npm install request
+npm install xml2js
+npm install mysql
